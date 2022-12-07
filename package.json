@@ -1,0 +1,22 @@
+{
+  "name": "demon-royal-dark",
+  "displayName": "Demon Royal Dark",
+  "description": "Royality in Darkness",
+  "version": "0.0.1",
+  "publisher": "thefighterjet",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Demon Royal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Demon Royal Dark-color-theme.json"
+      }
+    ]
+  }
+}
